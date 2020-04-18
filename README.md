@@ -60,4 +60,4 @@ Flex
 
 ## Flex 小知識
 
-[flex-wrap: wrap;](https://codepen.io/pen/?editors=1100)
+[flex-wrap: wrap;](https://codepen.io/hedgehogkucc/pen/vYNKxOE?editors=1100)
