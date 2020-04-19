@@ -391,24 +391,24 @@ section h2 {
 
 .header {
   background: url(../images/header_bg.png) center;
-  padding: 364px 0 256px 0;
   color: #fff;
   font-style: italic;
   margin-bottom: 56px;
-}
-
-.header_content {
-  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 960px;
+}
+
+.header_content {
+  position: relative;
 }
 
 .header span {
   position: absolute;
   top: -29px;
-  left: 42.2%;
+  left: 2.5%;
 }
 
 .header span, .header p {
@@ -520,6 +520,10 @@ section h2 {
 
 .myBrand_introduction span {
   font-style: italic;
+}
+
+.myBrand .d-flex img:last-child {
+  margin-left: 24px;
 }
 
 /* Other Works */
